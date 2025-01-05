@@ -14,7 +14,6 @@
     "lucide-react": "^0.456.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "tailwindcss-motion": "^0.4.2-beta",
     "use-scramble": "^2.2.15"
   },
   "devDependencies": {
@@ -30,6 +29,7 @@
     "globals": "^15.11.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
+    "tailwindcss-motion": "^1.0.1",
     "vite": "^5.4.10"
   }
 }
