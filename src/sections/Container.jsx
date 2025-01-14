@@ -1,8 +1,5 @@
-
 import Hero from './Hero'
-import About from './About'
 import WorkExperience from './WorkExperience'
-import UtilityBar from '../components/UtilityBar'
 import Education from './Education'
 import Skills from './Skills'
 import Projects from './Projects'

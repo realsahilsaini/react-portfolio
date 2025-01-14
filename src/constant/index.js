@@ -53,7 +53,7 @@ export const PROJECTS = [
     ProjectMedia:'https://res.cloudinary.com/dgsw81awo/image/upload/v1736052692/trimic_stats_ueqnac.png',
     Description: 'A URL shortner with analytics dashboard having insights like visitors count, location, device.',
     TechStack: ['ReactJs', 'Tailwind'],
-    GitHubLink: 'github.com',
+    GitHubLink: 'https://github.com/realsahilsaini/trimic',
     ProjectWebsite: 'https://trimic.vercel.app/'
   },
 

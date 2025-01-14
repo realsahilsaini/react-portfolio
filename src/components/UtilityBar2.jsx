@@ -6,7 +6,6 @@ import {
   RiGithubLine,
   RiLightbulbFlashLine,
   RiMoonClearLine,
-  RiMoonClearFill
 } from "@remixicon/react";
 import { useContext } from "react";
 import { ThemeContext } from "../utils/ThemeContext";

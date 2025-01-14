@@ -1,7 +1,6 @@
 import {
   RiLinkedinBoxFill,
   RiTwitterXLine,
-  RiHome5Line,
   RiGithubLine,
   RiLightbulbFlashLine,
 } from "@remixicon/react";
@@ -9,7 +8,7 @@ import { useContext, useState } from "react";
 import barImgOpen from "../assets/bar-img.jpg";
 import barImgclosed from "../assets/bar-gif.gif";
 import { ThemeContext } from "../utils/ThemeContext";
-import canvaGif from "../assets/canva-gif.gif";
+
 
 const UtilityBar = () => {
   // const scrollToSection = (id) => {
